@@ -14,7 +14,6 @@ const rootReducer = combineReducers({
     form: formReducer,
     toastr: toastrReducer,
     auth: AuthReducer
-
 })
 
 export default rootReducer
